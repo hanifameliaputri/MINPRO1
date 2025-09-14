@@ -18,25 +18,25 @@ Program ini merupakan sistem pencatatan penggunaan laboratorium komputer sederha
 
 PENJELASAN:
 
-Start: Program dimulai.
+1. Start: Program dimulai.
 
-Menu Utama (1–5): Pengguna memilih menu yang tersedia.
+2. Menu Utama (1–5): Pengguna memilih menu yang tersedia.
 
-Menu 1 (Lihat Catatan): 
-Jika pilih cek ruangan tertentu maka pengguna menginput nama ruangan yang ingin di cek dan sistem akan menampilkan ruangan apakah dipakai/kosong.
+3. Menu 1 (Lihat Catatan): 
+Jika pengguna memilih cek ruangan tertentu maka pengguna akan diarahkan untuk menginput nama ruangan yang ingin di cek dan sistem akan menampilkan ruangan apakah dipakai/kosong.
 Jika tidak sistem akan menampilkan semua catatan.
 
-Menu 2 (Tambah Catatan): Pengguna menginput ruangan, kelas, tanggal, dan jam lalu data disimpan dan catatan berhasil ditambahkan.
+4. Menu 2 (Tambah Catatan): Pengguna menginput ruangan, kelas, tanggal, dan jam, lalu data disimpan oleh sistem dan catatan berhasil ditambahkan.
 
-Menu 3 (Ubah Catatan): Sistem akan menampilkan catatan lalu pengguna menginput input data baru dan data berhasil diubah.
+5. Menu 3 (Ubah Catatan): Sistem akan menampilkan catatan, lalu pengguna diarahkan untuk menginput ruangan yang ingin diubah dan mengisi data ruangan baru, kelas, tanggal dan jam pemakaian. Setelah itu data berhasil diubah oleh sistem.
 
-Menu 4 (Hapus Catatan): Sistem akan menampilkan catatan lalu pengguna memilih catatan yang ingin dihapus dan data berhasil dihapus.
+6. Menu 4 (Hapus Catatan): Sistem akan menampilkan catatan lalu pengguna memilih catatan yang ingin dihapus dan data berhasil dihapus.
 
-Menu 5 (Keluar): Sistem akan mengkonfirmasi apakah ingin keluar, jika iya program berhenti dan jika tidak kembali ke menu utama.
+7. Menu 5 (Keluar): Sistem akan mengkonfirmasi apakah ingin keluar, jika iya program berhenti dan jika tidak kembali ke menu utama.
 
-Setelah menjalankan menu 1–4: Sistem akan menanyakan apakah ingin kembali ke menu utama, jika iya kembali ke menu utama dan jika tidak program End.
+8. Setelah menjalankan menu 1–4: Sistem akan menanyakan apakah ingin kembali ke menu utama, jika iya kembali ke menu utama dan jika tidak program End.
 
-End: Program selesai dijalankan.
+9. End: Program selesai dijalankan.
 
 # PROGRAM PYTHON
 ```python
